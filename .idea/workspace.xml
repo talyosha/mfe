@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3633e81-8d0f-4236-9e34-42b742ccc983" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/container/config/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/config/webpack.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/container/config/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/config/webpack.prod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/container/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/dashboard/src/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dashboard/src/bootstrap.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +36,9 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/packages/dashboard/package.json" />
   </component>
   <component name="ProjectId" id="1tCnDPAkUzgAODSYBMctDYQlPh3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622281821138</updated>
       <workItem from="1622281822191" duration="7001000" />
-      <workItem from="1622441380698" duration="17344000" />
+      <workItem from="1622441380698" duration="17600000" />
     </task>
     <servers />
   </component>
