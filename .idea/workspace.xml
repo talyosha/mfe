@@ -21,15 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b3633e81-8d0f-4236-9e34-42b742ccc983" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/auth/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/auth/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/auth/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/auth/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/container/config/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/config/webpack.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/container/config/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/config/webpack.prod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/container/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/container/src/components/MarketingApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/src/components/MarketingApp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/marketing/config/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/marketing/config/webpack.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/marketing/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/marketing/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/marketing/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/marketing/src/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/marketing/src/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dashboard/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +49,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/container/src/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/container/src/components" />
       <recent name="$PROJECT_DIR$/packages" />
       <recent name="$PROJECT_DIR$/packages/container/src" />
-      <recent name="$PROJECT_DIR$/packages/container/src/components" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622281821138</updated>
       <workItem from="1622281822191" duration="7001000" />
-      <workItem from="1622441380698" duration="14895000" />
+      <workItem from="1622441380698" duration="15940000" />
     </task>
     <servers />
   </component>
